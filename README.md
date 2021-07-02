@@ -1,2 +1,2 @@
-# technical-interview
+# Technical-Interview
 Technical Interview Questions
