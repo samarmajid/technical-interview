@@ -9,7 +9,7 @@ These are the Tasks required for the completion of the Technical Interview
 3) For the duration of the tasks below, commit changes to the `dev` branch and only create a pull request when you completed one of the tasks
 4) Once you are happy with your completed task, accept and merge your pull request into the main branch
 
-## Task 1 - Python basics
+## Task 1 - Python basics (Required)
 
 **Make sure to commit all changes often as you work through the task with meaniful descriptive commit messages**
 
@@ -25,7 +25,7 @@ These are the Tasks required for the completion of the Technical Interview
 
 This could be something as easy as asking a user for their favorite dog then utilizing a public free-to-use dog API to return facts about the dog that they inputted. Once agian feel free to get creative and make it as complex as possible. Since this is a fairly easy task, we are looking for some really impressive creations!
 
-## Task 2 - Web Scrapping
+## Task 2 - Web Scrapping (Required)
 
 **Make sure to commit all changes as you work through the task with meaniful descriptive commit messages**
 
@@ -37,10 +37,24 @@ This could be something as easy as asking a user for their favorite dog then uti
 
 Once agian feel free to get creative and complex. We would love to see some very creative creations
 
-## Task 3 (Bonus Points) Machine Learning and Website Development
+## Task 3 Website Development (Choose Task 3 or Task 4. Bonus Points for both)
 
-If you have any creative projects that incorporated machine learning and website development please leave a link if possible, or write a breif paragraph explaining what they were and how you created them.
+**Make sure to commit all changes as you work through the task with meaniful descriptive commit messages**
 
-If you have extra time and want to create a website or machine learning script to show off your skills, please use the `Other Tasks` folder to create something creative! It can be anything you would like, we would love to see what you can create!
+*Note: Bonus points if you can utilize React to create the sample website*
 
-*Note: If you create something using React, Tensorflow, or both. That is extra extra extra points*
+1) Open the `Web Dev` folder to create the necessary files for the website (Please use the Readme to explain your website)
+2) Create a website that demonstrates the following skills
+    - Javascript used to manipulate content on the page
+    - HTML and CSS used to generate the webpage
+
+If you know React, Vue, or another frontend framework, **Please use those instead!!!**
+
+## Task 4 Machine Learning with Python (Choose Task 3 or Task 4. Bonus Points for both)
+
+*Note: Please feel free to add any extra files or special features to your script, we love to see cool things that people can do! Also make sure to create several comments throughout the code to explain your thought process*
+
+1) Open the `Machine Learning` folder to create the necessary files for the machine learning script (Please use the Readme to explain your Machine Learning Algorithm)
+2) Create a machine learning script using Tensorflow or other framework to demonstrate skills necessary for machine learning (Can be in any programming language)
+
+## Thank you and we look forward to speaking with you soon!
