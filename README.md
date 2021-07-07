@@ -1,6 +1,6 @@
 # Technical-Interview
 
-These are the Tasks required for the completion of the Technical Interview
+These are the tasks required for the completion of the Technical Interview
 
 ## Instructions to get started
 
