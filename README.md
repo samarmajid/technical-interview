@@ -32,7 +32,7 @@ This could be something as easy as asking a user for their favorite dog then uti
 *Note: Please feel free to add any extra files or special features to your script, we love to see cool things that people can do! Also make sure to create several comments throughout the code to explain your thought process*
 
 1) Open the `Task 2` folder inside the `Python` folder and create a new file called `task2.py` (Feel free to create additional files if you need them)
-2) Create a script that automatically scrapes book name, price, and rating from several books on the webpage
+2) Create a script that automatically scrapes book name, price, and rating from several books on http://books.toscrape.com/
 3) Output the scrapped data to a CSV or JSON file
 
 Once agian feel free to get creative and complex. We would love to see some very creative creations
