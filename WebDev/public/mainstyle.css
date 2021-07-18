@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Coiny');
+
+h1 {
+    font-family: 'Coiny';
+}
+
+body {
+    font-family:'Indie Flower';
+}
+
+
+
+p{
+    color: pink; 
+}
+.styleOne{
+    color: red;
+}
+
+.styleThree{
+    color: blue;
+}
+
+#styleFour{
+    font-style: italic;
+}
+
+p:link {
+	color: blue;	
+}
+
+p:visited {
+	color:purple;
+}
+
+p:hover {
+	color: red;
+}
+
+p:active {
+	color: gray;
+}
